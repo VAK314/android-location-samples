@@ -26,6 +26,7 @@ import android.content.SharedPreferences;
 import android.location.Location;
 import android.os.IBinder;
 import android.preference.PreferenceManager;
+
 import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
